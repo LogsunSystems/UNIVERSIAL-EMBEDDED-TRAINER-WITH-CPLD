@@ -1,2 +1,6 @@
 # UNIVERSIAL-EMBEDDED-TRAINER-WITH-CPLD
 XC9500XL CPLD
+## Introduction
+Complex programmable logic devices (CPLDs) are integrated circuits (ICs) or chips that application designers configure to implement digital hardware such as mobile      phones. CPLDs can handle significantly larger designs than simple programmable logic devices (SPLDs), but provide less logic than field programmable gatearrays (FPGAs)
+CPLDs contain several logic blocks, each of which includes eight to 16 macrocells. Because each logic block performs a specific function, all of the macrocells within a logic block are fully connected. Depending upon the application, however, logic blocks may or may not be connected to one another.
+Most complex programmable logic devices contain macrocells with a sum-of-product combinatorial logic function and an optional flip-flop. Depending on the CPLD, the combinatorial logic function supports from four to sixteen product terms with wide fan-in. Complex programmable logic devices also vary in terms of logic gates and shift registers. For this reason, CPLDs with a large number of logic gates may be used in place of FPGAs. Another CPLD specification denotes the number of product terms that a macrocell can manage. Product terms are the product of digital signals that perform a specific logic function.
